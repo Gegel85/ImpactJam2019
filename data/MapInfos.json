@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Infirmerie","order":1,"parentId":0,"scrollX":1644,"scrollY":654.6},
+{"id":1,"expanded":false,"name":"Infirmerie","order":1,"parentId":0,"scrollX":1636,"scrollY":647},
 {"id":2,"expanded":false,"name":"Caféteria","order":2,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"Couloir","order":3,"parentId":0,"scrollX":1484,"scrollY":642}
 ]
