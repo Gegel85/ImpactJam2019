@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1334,"scrollY":606.5},
-{"id":2,"expanded":false,"name":"Caféteria","order":2,"parentId":1,"scrollX":811,"scrollY":497.5}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1652,"scrollY":454.5},
+{"id":2,"expanded":false,"name":"Caféteria","order":2,"parentId":1,"scrollX":811,"scrollY":497.5},
+{"id":3,"expanded":false,"name":"Couloir","order":3,"parentId":1,"scrollX":1404,"scrollY":776.5}
 ]
